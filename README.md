@@ -13,7 +13,7 @@ There are three categories,
 1. Award for Amount (number of reaction amount)
 
 
-## init
-2019/12/21: エラーが出て落ちるので一旦以下の形式でパッケージを入れてください（それでもBlock周りで落ちることがあるけど）
-`go get github.com/nlopes/slack@d06c2a2`
+## info
+2020/01/23: 素のままだとエラーが出て落ちるので、一旦自分のアカウントにforkして利用しています。
+
 
